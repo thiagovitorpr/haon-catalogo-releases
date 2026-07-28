@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T21:51:35.290Z",
+  "generatedAt": "2026-07-28T22:45:00.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -16,12 +16,12 @@
     {
       "version": "1.1.0-beta.1",
       "channel": "beta",
-      "publishedAt": "2026-07-28T21:51:35.291Z",
-      "title": "Teste controlado do canal Beta",
+      "publishedAt": "2026-07-28T22:45:00.000Z",
+      "title": "Fronteira segura entre Engine e Projeto",
       "notes": [
-        "Validação da detecção de versões experimentais.",
-        "Confirmação da separação entre Stable, Beta e Canary.",
-        "Nenhum código será aplicado automaticamente neste teste."
+        "Proteção explícita das personalizações do cliente.",
+        "Dry-run de atualização com detecção de conflitos.",
+        "Snapshot versionado dos arquivos instalados da Engine."
       ]
     }
   ]
