@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-28T21:51:35.290Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "title": "Primeira versão estável",
+      "notes": [
+        "Base administrável de produtos, blog e páginas.",
+        "Backup e restauração entre instalações Firebase.",
+        "Painel de marketing, clientes, mídias e usuários."
+      ]
+    },
+    {
+      "version": "1.1.0-beta.1",
+      "channel": "beta",
+      "publishedAt": "2026-07-28T21:51:35.291Z",
+      "title": "Teste controlado do canal Beta",
+      "notes": [
+        "Validação da detecção de versões experimentais.",
+        "Confirmação da separação entre Stable, Beta e Canary.",
+        "Nenhum código será aplicado automaticamente neste teste."
+      ]
+    }
+  ]
+}
