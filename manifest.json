@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T14:17:10.000Z",
+  "generatedAt": "2026-07-29T15:19:13.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -90,6 +90,18 @@
         "Assistente para diagnosticar e configurar atualizações em novas instalações.",
         "Configuração idempotente do apphosting.yaml sem armazenar tokens no código.",
         "Modo somente leitura para validar GitHub, Firebase, backend e workflow antes da ativação."
+      ]
+    },
+    {
+      "version": "1.2.0-beta.5",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-29T15:19:13.000Z",
+      "title": "Acompanhamento completo das atualizações",
+      "notes": [
+        "Progresso persistente com etapas de fila, validação, publicação e conclusão.",
+        "Atualização continua em segundo plano mesmo ao sair ou recarregar a página.",
+        "Bloqueio de solicitações duplicadas e acesso seguro aos detalhes técnicos."
       ]
     }
   ]
