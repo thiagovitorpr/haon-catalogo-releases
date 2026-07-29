@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T22:45:00.000Z",
+  "generatedAt": "2026-07-29T11:08:49.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -22,6 +22,28 @@
         "Proteção explícita das personalizações do cliente.",
         "Dry-run de atualização com detecção de conflitos.",
         "Snapshot versionado dos arquivos instalados da Engine."
+      ]
+    },
+    {
+      "version": "1.1.0-beta.2",
+      "channel": "beta",
+      "publishedAt": "2026-07-29T10:30:00.000Z",
+      "title": "Identidade nativa no Firebase App Hosting",
+      "notes": [
+        "Autenticação server-side sem chaves JSON no App Hosting.",
+        "Credenciais externas continuam disponíveis como alternativa.",
+        "Redução do risco operacional no provisionamento de clientes."
+      ]
+    },
+    {
+      "version": "1.1.0-beta.3",
+      "channel": "beta",
+      "publishedAt": "2026-07-29T11:08:49.000Z",
+      "title": "Páginas neutras e modo manutenção",
+      "notes": [
+        "Setup neutro com páginas institucionais essenciais.",
+        "Definição de página inicial e página de manutenção pelo painel.",
+        "Modo manutenção com painel preservado e proteção de indexação."
       ]
     }
   ]
