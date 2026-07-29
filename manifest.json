@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T15:38:12.000Z",
+  "generatedAt": "2026-07-29T15:41:05.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -95,13 +95,25 @@
     {
       "version": "1.2.0-beta.5",
       "channel": "beta",
-      "enabled": true,
+      "enabled": false,
       "publishedAt": "2026-07-29T15:19:13.000Z",
       "title": "Acompanhamento completo das atualizações",
       "notes": [
         "Progresso persistente com etapas de fila, validação, publicação e conclusão.",
         "Atualização continua em segundo plano mesmo ao sair ou recarregar a página.",
         "Bloqueio de solicitações duplicadas e acesso seguro aos detalhes técnicos."
+      ]
+    },
+    {
+      "version": "1.2.0-beta.6",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-29T15:41:05.000Z",
+      "title": "Acompanhamento de atualizações corrigido",
+      "notes": [
+        "Instala o acompanhamento persistente de fila, validação, publicação e conclusão.",
+        "Corrige a sincronização entre a versão do pacote e o manifesto da Engine.",
+        "Adiciona teste de integridade para impedir lançamentos com versões divergentes."
       ]
     }
   ]
