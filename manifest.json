@@ -95,7 +95,7 @@
     {
       "version": "1.2.0-beta.5",
       "channel": "beta",
-      "enabled": false,
+      "enabled": true,
       "publishedAt": "2026-07-29T15:19:13.000Z",
       "title": "Acompanhamento completo das atualizações",
       "notes": [
