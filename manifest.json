@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T11:08:49.000Z",
+  "generatedAt": "2026-07-29T12:00:02.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -44,6 +44,17 @@
         "Setup neutro com páginas institucionais essenciais.",
         "Definição de página inicial e página de manutenção pelo painel.",
         "Modo manutenção com painel preservado e proteção de indexação."
+      ]
+    },
+    {
+      "version": "1.2.0-beta.1",
+      "channel": "beta",
+      "publishedAt": "2026-07-29T12:00:02.000Z",
+      "title": "Gerenciador de temas e tags dinâmicas",
+      "notes": [
+        "Templates administráveis para cabeçalho, rodapé, produtos e blog.",
+        "Tags dinâmicas renderizadas no servidor com fallback para o código React.",
+        "Modelos iniciais para landing page, VSL e página de obrigado."
       ]
     }
   ]
