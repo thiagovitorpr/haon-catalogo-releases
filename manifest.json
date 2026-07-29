@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T12:00:02.000Z",
+  "generatedAt": "2026-07-29T13:50:16.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -66,6 +66,18 @@
         "Módulo de documentação com permissão individual por usuário.",
         "Contrato Markdown e JSON gerado a partir dos schemas reais do projeto.",
         "Novas tags para imagens, galerias, arquivos e campos personalizados do blog."
+      ]
+    },
+    {
+      "version": "1.2.0-beta.3",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-29T13:50:16.000Z",
+      "title": "Atualizações aprovadas pelo painel",
+      "notes": [
+        "Botão Atualizar agora disponível somente para versões habilitadas do canal selecionado.",
+        "Backup automático e validação server-side antes de solicitar a atualização.",
+        "Workflow privado com dry-run, proteção do projeto, testes, build e publicação pelo repositório do cliente."
       ]
     }
   ]
