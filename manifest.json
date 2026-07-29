@@ -56,6 +56,17 @@
         "Tags dinâmicas renderizadas no servidor com fallback para o código React.",
         "Modelos iniciais para landing page, VSL e página de obrigado."
       ]
+    },
+    {
+      "version": "1.2.0-beta.2",
+      "channel": "beta",
+      "publishedAt": "2026-07-29T13:33:37.000Z",
+      "title": "Documentação dinâmica para gestores e IA",
+      "notes": [
+        "Módulo de documentação com permissão individual por usuário.",
+        "Contrato Markdown e JSON gerado a partir dos schemas reais do projeto.",
+        "Novas tags para imagens, galerias, arquivos e campos personalizados do blog."
+      ]
     }
   ]
 }
