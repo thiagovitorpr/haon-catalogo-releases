@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T15:41:05.000Z",
+  "generatedAt": "2026-07-30T15:42:39.000Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -126,6 +126,33 @@
         "Trava server-side contra requisições de atualização simultâneas.",
         "Acompanhamento visual em tempo real no painel administrativo.",
         "Notificação automática ao concluir o deploy no Firebase App Hosting."
+      ]
+    },
+    {
+      "version": "1.3.0-beta.1",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-30T15:08:28.000Z",
+      "title": "Temas modulares, campos personalizados e formulários",
+      "notes": [
+        "Reorganiza Temas em pastas por tipo de página e adiciona componentes reutilizáveis opcionais.",
+        "Adiciona campos personalizados para produtos e blog, incluindo link de checkout padrão.",
+        "Inclui preview em nova aba e portabilidade de páginas com suas mídias.",
+        "Adiciona Ferramentas e o gerenciador de formulários com respostas, conversões e vínculo com clientes.",
+        "Move Definir como para o menu de três pontos das páginas e preserva o tracking global da Engine."
+      ]
+    },
+    {
+      "version": "1.3.0-beta.2",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-30T15:42:39.000Z",
+      "title": "Formulários completos no preview",
+      "notes": [
+        "Renderiza os campos dos formulários publicados dentro dos previews de páginas e temas.",
+        "Leva os estilos do formulário para o documento isolado do preview.",
+        "Bloqueia envios reais durante a visualização e informa claramente o modo preview.",
+        "Permite que editores de Páginas e Temas consultem formulários publicados sem acesso à gestão de respostas."
       ]
     }
   ]
