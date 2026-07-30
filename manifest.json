@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T17:40:04.264Z",
+  "generatedAt": "2026-07-30T17:40:35.501Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -165,6 +165,19 @@
         "Adiciona o publicador oficial de versões da Engine.",
         "Permite que versões estáveis sejam recebidas por todos os canais.",
         "Consolida páginas de tema, página 404 e melhorias administrativas."
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-07-30T17:40:35.501Z",
+      "title": "Haon Engine 1.3 — Base estável",
+      "notes": [
+        "Consolida temas, páginas dinâmicas, formulários e campos personalizados.",
+        "Adiciona página 404 administrável e acesso direto aos modelos ativos.",
+        "Reorganiza configurações, barra lateral e edição de páginas.",
+        "Adiciona publicação automatizada e atualização segura por canais."
       ]
     }
   ]
