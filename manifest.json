@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T19:52:41.752Z",
+  "generatedAt": "2026-07-30T20:01:11.325Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -191,6 +191,18 @@
         "Importa páginas institucionais, formulários, produtos e artigos como rascunhos, preservando conteúdos existentes.",
         "Inclui Link da Bio com métricas por botão e QR Codes rastreáveis com download em SVG.",
         "Melhora a importação com validação detalhada de mídias, compatibilidade Unicode e acompanhamento visual de progresso."
+      ]
+    },
+    {
+      "version": "1.4.1",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-07-30T20:01:11.325Z",
+      "title": "Correção da instalação de dependências",
+      "notes": [
+        "Regenera o package-lock para compatibilidade com o npm do GitHub Actions e Firebase App Hosting.",
+        "Fixa Node.js 22 no workflow de atualização dos clientes.",
+        "Passa a exigir npm ci antes de toda publicação futura da Engine."
       ]
     }
   ]
