@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T17:40:35.501Z",
+  "generatedAt": "2026-07-30T19:52:41.752Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -178,6 +178,19 @@
         "Adiciona página 404 administrável e acesso direto aos modelos ativos.",
         "Reorganiza configurações, barra lateral e edição de páginas.",
         "Adiciona publicação automatizada e atualização segura por canais."
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-07-30T19:52:41.752Z",
+      "title": "Temas portáteis e ferramentas de marketing",
+      "notes": [
+        "Adiciona exportação e importação de temas editáveis no VS Code com mídias, documentação para IA e preview local.",
+        "Importa páginas institucionais, formulários, produtos e artigos como rascunhos, preservando conteúdos existentes.",
+        "Inclui Link da Bio com métricas por botão e QR Codes rastreáveis com download em SVG.",
+        "Melhora a importação com validação detalhada de mídias, compatibilidade Unicode e acompanhamento visual de progresso."
       ]
     }
   ]
