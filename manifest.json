@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T20:01:11.325Z",
+  "generatedAt": "2026-07-30T20:06:25.505Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -203,6 +203,17 @@
         "Regenera o package-lock para compatibilidade com o npm do GitHub Actions e Firebase App Hosting.",
         "Fixa Node.js 22 no workflow de atualização dos clientes.",
         "Passa a exigir npm ci antes de toda publicação futura da Engine."
+      ]
+    },
+    {
+      "version": "1.4.2",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-07-30T20:06:25.505Z",
+      "title": "Correção do atualizador automático",
+      "notes": [
+        "Protege o workflow de atualização contra alterações durante sua própria execução.",
+        "Permite concluir o commit e o envio da atualização validada ao repositório do cliente."
       ]
     }
   ]
