@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T00:49:23.270Z",
+  "generatedAt": "2026-07-31T14:27:42.544Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -227,6 +227,18 @@
         "Inclui miniaturas e previews ampliados na seleção de templates, páginas e modelos salvos.",
         "Expande a biblioteca para 70 componentes por estilo e nicho, incluindo pizzaria, hamburgueria e doceria.",
         "Adiciona pacotes individuais de importação e exportação, Padrão do sistema restaurável e seletores de status no painel."
+      ]
+    },
+    {
+      "version": "1.5.0-beta.2",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-31T14:27:42.544Z",
+      "title": "Biblioteca de temas e hub de marketing",
+      "notes": [
+        "Amplia os modelos de landing pages, blogs e componentes com previews e edições mais úteis.",
+        "Melhora a aplicação de temas, o editor, os menus de navegação e as ações de modelo padrão.",
+        "Transforma Marketing em um hub preparado para integrações, eventos e novas ferramentas."
       ]
     }
   ]
