@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T14:27:42.544Z",
+  "generatedAt": "2026-07-31T19:56:21.800Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -239,6 +239,18 @@
         "Amplia os modelos de landing pages, blogs e componentes com previews e edições mais úteis.",
         "Melhora a aplicação de temas, o editor, os menus de navegação e as ações de modelo padrão.",
         "Transforma Marketing em um hub preparado para integrações, eventos e novas ferramentas."
+      ]
+    },
+    {
+      "version": "1.5.0-beta.3",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-07-31T19:56:21.800Z",
+      "title": "GEO e gestão de respostas",
+      "notes": [
+        "Adiciona a primeira versão da ferramenta GEO.",
+        "Adiciona notificações de novas respostas de formulários.",
+        "Permite filtrar e exportar respostas em CSV."
       ]
     }
   ]
