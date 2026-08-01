@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:18:18.156Z",
+  "generatedAt": "2026-08-01T19:47:10.776Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -298,6 +298,18 @@
       "notes": [
         "Exibe novas versões imediatamente após a publicação, sem aguardar o cache do catálogo.",
         "Permite que os canais Beta e Experimental instalem versões estáveis conforme a hierarquia configurada."
+      ]
+    },
+    {
+      "version": "1.5.2",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T19:47:10.776Z",
+      "title": "Importação de sites e guia de instalação",
+      "notes": [
+        "Permite importar pacotes de site de até 50 MB no Firebase App Hosting sem ultrapassar o limite de requisição do Cloud Run.",
+        "Envia o pacote em partes pelo Firebase Storage, exibe o progresso e remove automaticamente os arquivos temporários.",
+        "Adiciona à Documentação um guia completo e baixável para instalar novos clientes com apoio de um agente de IA."
       ]
     }
   ]
