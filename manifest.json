@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T18:46:01.625Z",
+  "generatedAt": "2026-08-01T19:13:41.833Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -275,6 +275,18 @@
         "Impede a pré-renderização de páginas administrativas autenticadas durante o build.",
         "Acompanha o rollout real do Firebase e informa falhas de publicação no painel.",
         "Abre os detalhes técnicos corretos quando o App Hosting rejeita um build."
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T19:13:41.833Z",
+      "title": "Temas, conteúdo e ferramentas aprimorados",
+      "notes": [
+        "Padroniza tags dinâmicas e documentação para IA nos editores de páginas, componentes e coleções.",
+        "Consolida coleções, backups portáveis, histórico de temas e importação/exportação de páginas e componentes.",
+        "Inclui formulários aprimorados, GEO, Link da Bio, QR Codes e melhorias no gerenciamento visual dos temas."
       ]
     }
   ]
