@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T22:07:13.143Z",
+  "generatedAt": "2026-08-01T22:18:34.431Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -357,6 +357,17 @@
       "notes": [
         "Corrige redirecionamentos repetidos ao acessar o painel pelo domínio administrativo do App Hosting.",
         "Identifica a origem pública real preservada pelo proxy, mantendo site e painel isolados com segurança."
+      ]
+    },
+    {
+      "version": "1.5.7",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T22:18:34.431Z",
+      "title": "Roteamento administrativo validado no App Hosting",
+      "notes": [
+        "Prioriza o domínio original encaminhado pelo App Hosting ao separar site e painel.",
+        "Elimina o loop de redirecionamento no domínio administrativo."
       ]
     }
   ]
