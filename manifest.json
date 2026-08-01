@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:59:57.526Z",
+  "generatedAt": "2026-08-01T20:19:03.094Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -322,6 +322,18 @@
         "Analisa o ZIP no navegador antes de qualquer envio ao servidor.",
         "Exibe etapas, percentual e tempo decorrido desde a seleção do arquivo.",
         "Mantém a ação visível nos botões durante o processamento, eliminando o aviso genérico de espera."
+      ]
+    },
+    {
+      "version": "1.5.4",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T20:19:03.094Z",
+      "title": "Importação completa com publicação preservada",
+      "notes": [
+        "Permite importar como rascunho, publicar tudo ou preservar os estados do site exportado.",
+        "Restaura modelos ativos, Home, página de manutenção e cópias públicas consumidas pelo site.",
+        "Sincroniza produtos, blog, páginas, formulários e coleções com confirmação antes da publicação."
       ]
     }
   ]
