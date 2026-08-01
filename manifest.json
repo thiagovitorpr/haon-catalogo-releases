@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:13:41.833Z",
+  "generatedAt": "2026-08-01T19:18:18.156Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -287,6 +287,17 @@
         "Padroniza tags dinâmicas e documentação para IA nos editores de páginas, componentes e coleções.",
         "Consolida coleções, backups portáveis, histórico de temas e importação/exportação de páginas e componentes.",
         "Inclui formulários aprimorados, GEO, Link da Bio, QR Codes e melhorias no gerenciamento visual dos temas."
+      ]
+    },
+    {
+      "version": "1.5.1",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T19:18:18.156Z",
+      "title": "Correção da distribuição de atualizações",
+      "notes": [
+        "Exibe novas versões imediatamente após a publicação, sem aguardar o cache do catálogo.",
+        "Permite que os canais Beta e Experimental instalem versões estáveis conforme a hierarquia configurada."
       ]
     }
   ]
