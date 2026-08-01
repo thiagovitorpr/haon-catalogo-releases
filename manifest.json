@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T21:51:02.848Z",
+  "generatedAt": "2026-08-01T22:07:13.143Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -346,6 +346,17 @@
         "Mantém textos e elementos com animação de entrada visíveis em produção.",
         "Preserva referências de mídia sem duplicar o prefixo asset durante exportações.",
         "Recupera automaticamente referências de mídia afetadas em pacotes anteriores."
+      ]
+    },
+    {
+      "version": "1.5.6",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T22:07:13.143Z",
+      "title": "Acesso administrativo em domínio separado",
+      "notes": [
+        "Corrige redirecionamentos repetidos ao acessar o painel pelo domínio administrativo do App Hosting.",
+        "Identifica a origem pública real preservada pelo proxy, mantendo site e painel isolados com segurança."
       ]
     }
   ]
