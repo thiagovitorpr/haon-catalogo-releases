@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T20:19:03.094Z",
+  "generatedAt": "2026-08-01T21:51:02.848Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -334,6 +334,18 @@
         "Permite importar como rascunho, publicar tudo ou preservar os estados do site exportado.",
         "Restaura modelos ativos, Home, página de manutenção e cópias públicas consumidas pelo site.",
         "Sincroniza produtos, blog, páginas, formulários e coleções com confirmação antes da publicação."
+      ]
+    },
+    {
+      "version": "1.5.5",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-01T21:51:02.848Z",
+      "title": "Temas importados com renderização consistente",
+      "notes": [
+        "Mantém textos e elementos com animação de entrada visíveis em produção.",
+        "Preserva referências de mídia sem duplicar o prefixo asset durante exportações.",
+        "Recupera automaticamente referências de mídia afetadas em pacotes anteriores."
       ]
     }
   ]
