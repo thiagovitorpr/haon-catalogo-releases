@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T17:09:03.672Z",
+  "generatedAt": "2026-08-03T17:15:33.013Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -380,6 +380,18 @@
         "Automatiza a configuração das origens pública e administrativa em novas instalações.",
         "Autoriza o domínio do painel no Firebase Authentication e amplia a documentação de clientes.",
         "Aplica o favicon configurado em todas as páginas e confirma a persistência das configurações no painel."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.2",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-03T17:15:33.013Z",
+      "title": "Atualizações resilientes no App Hosting",
+      "notes": [
+        "Trata respostas temporárias do proxy do Firebase sem exibir erros técnicos de JSON.",
+        "Confirma automaticamente o andamento quando a atualização já começou em segundo plano.",
+        "Evita solicitações duplicadas ao perder a resposta inicial do servidor."
       ]
     }
   ]
