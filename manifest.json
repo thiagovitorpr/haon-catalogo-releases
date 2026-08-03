@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T22:18:34.431Z",
+  "generatedAt": "2026-08-03T17:09:03.672Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -368,6 +368,18 @@
       "notes": [
         "Prioriza o domínio original encaminhado pelo App Hosting ao separar site e painel.",
         "Elimina o loop de redirecionamento no domínio administrativo."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.1",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-03T17:09:03.672Z",
+      "title": "Provisionamento e identidade do site",
+      "notes": [
+        "Automatiza a configuração das origens pública e administrativa em novas instalações.",
+        "Autoriza o domínio do painel no Firebase Authentication e amplia a documentação de clientes.",
+        "Aplica o favicon configurado em todas as páginas e confirma a persistência das configurações no painel."
       ]
     }
   ]
