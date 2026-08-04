@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:26:16.647Z",
+  "generatedAt": "2026-08-04T17:19:45.922Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -404,6 +404,19 @@
         "Restaura o controle global de indexação em Configurações do site.",
         "Detecta quando a página inicial ativa está marcada como noindex e permite liberar e republicar a Home.",
         "Aplica o bloqueio de forma consistente em metadados, robots.txt, sitemap e cabeçalhos HTTP."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.4",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-04T17:19:45.922Z",
+      "title": "Atualizações com progresso persistente",
+      "notes": [
+        "Registra a atualização antes de iniciar o backup, eliminando a janela sem acompanhamento.",
+        "Exibe as etapas de backup, envio, validação, publicação e conclusão em tempo real.",
+        "Bloqueia solicitações duplicadas e libera nova tentativa quando uma preparação for realmente interrompida.",
+        "Registra falhas de backup ou envio com mensagem clara no painel."
       ]
     }
   ]
