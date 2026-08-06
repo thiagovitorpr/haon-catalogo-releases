@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:19:45.922Z",
+  "generatedAt": "2026-08-06T14:24:02.293Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -417,6 +417,18 @@
         "Exibe as etapas de backup, envio, validação, publicação e conclusão em tempo real.",
         "Bloqueia solicitações duplicadas e libera nova tentativa quando uma preparação for realmente interrompida.",
         "Registra falhas de backup ou envio com mensagem clara no painel."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.5",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-06T14:24:02.293Z",
+      "title": "Formulários avançados e personalizáveis",
+      "notes": [
+        "Adiciona personalização visual completa aos formulários.",
+        "Inclui formulários passo a passo, importação, exportação e webhooks.",
+        "Adiciona preset portátil do formulário de pré-contato Haon."
       ]
     }
   ]
