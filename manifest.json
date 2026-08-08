@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T14:24:02.293Z",
+  "generatedAt": "2026-08-08T17:41:43.022Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -429,6 +429,18 @@
         "Adiciona personalização visual completa aos formulários.",
         "Inclui formulários passo a passo, importação, exportação e webhooks.",
         "Adiciona preset portátil do formulário de pré-contato Haon."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.6",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-08T17:41:43.022Z",
+      "title": "Atualizações resilientes para instalações com mídias",
+      "notes": [
+        "Remove o gargalo de copiar todas as mídias durante o backup pré-atualização.",
+        "Protege dados, layouts e configurações sem alterar os arquivos existentes no Storage.",
+        "Preserva as mídias ao restaurar um backup de segurança criado pelo atualizador."
       ]
     }
   ]
