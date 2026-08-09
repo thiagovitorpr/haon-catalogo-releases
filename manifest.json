@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:35:51.603Z",
+  "generatedAt": "2026-08-09T20:31:01.848Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -453,6 +453,18 @@
         "Registra respostas parciais e abandono por etapa em formulários passo a passo.",
         "Adiciona funil de conversão, filtros e exportação de sessões no painel.",
         "Inclui preview, documentação para IA e cópia para incorporar formulários em botões existentes."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.8",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-09T20:31:01.848Z",
+      "title": "Formulários móveis sem recorte",
+      "notes": [
+        "Usa a altura visual real do navegador móvel para dimensionar o popup.",
+        "Mantém os botões de navegação visíveis e restringe a rolagem ao conteúdo da etapa.",
+        "Respeita a área segura inferior e reage à barra do navegador e ao teclado virtual."
       ]
     }
   ]
