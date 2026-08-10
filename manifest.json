@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T18:02:31.681Z",
+  "generatedAt": "2026-08-10T18:09:06.484Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -479,6 +479,17 @@
         "Adiciona insights de comportamento por página e separa acessos diretos, internos e externos.",
         "Exibe previews reais do hero na lista de páginas, com visualização responsiva ampliada.",
         "Corrige a sobreposição da barra de Rich Text sobre modais."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.10",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-10T18:09:06.484Z",
+      "title": "Hotfix das miniaturas de páginas",
+      "notes": [
+        "Restaura as miniaturas do modo lista para o tamanho compacto original de 58 por 58 pixels.",
+        "Mantém o preview ampliado do hero ao clicar e preserva a visualização grande no modo cards."
       ]
     }
   ]
