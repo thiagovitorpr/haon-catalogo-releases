@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T01:18:05.857Z",
+  "generatedAt": "2026-08-11T10:42:18.277Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -529,6 +529,19 @@
       "notes": [
         "O modal da Biblioteca de Mídias agora aparece corretamente acima do editor de páginas em tela cheia.",
         "A seleção de imagens pelo editor visual volta a funcionar normalmente."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.14",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-11T10:42:18.277Z",
+      "title": "Editor visual com histórico e reorganização avançada",
+      "notes": [
+        "Adiciona histórico de edição e versões no editor de páginas.",
+        "Permite reorganizar a estrutura visualmente e pela árvore hierárquica.",
+        "Melhora edição HTML, CSS, responsividade, seleção e preservação de scroll.",
+        "Adiciona inserção de elementos por arrastar e soltar no preview."
       ]
     }
   ]
