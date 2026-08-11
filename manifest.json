@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T01:04:02.144Z",
+  "generatedAt": "2026-08-11T01:18:05.857Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -518,6 +518,17 @@
         "Controles de cor agora usam HEX, transparência e restauração da última versão salva.",
         "Elementos complexos, FAQs e formulários recebem seleção e configuração mais precisas.",
         "Nova edição de efeitos de hover com preview ao vivo e persistência após publicação."
+      ]
+    },
+    {
+      "version": "1.6.0-beta.13",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-11T01:18:05.857Z",
+      "title": "Correção da Biblioteca de Mídias no editor",
+      "notes": [
+        "O modal da Biblioteca de Mídias agora aparece corretamente acima do editor de páginas em tela cheia.",
+        "A seleção de imagens pelo editor visual volta a funcionar normalmente."
       ]
     }
   ]
