@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T10:44:31.256Z",
+  "generatedAt": "2026-08-11T10:58:20.170Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -555,6 +555,17 @@
         "Permite reorganizar elementos visualmente e pela árvore hierárquica.",
         "Melhora edição HTML e CSS, responsividade, seleção e preservação de scroll.",
         "Adiciona inserção de elementos por arrastar e soltar no preview."
+      ]
+    },
+    {
+      "version": "1.6.1",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-11T10:58:20.170Z",
+      "title": "Correção do instalador de atualizações",
+      "notes": [
+        "Inclui hooks compartilhados no pacote de atualização da Engine.",
+        "Corrige a falha de tipagem ao atualizar o editor visual de páginas."
       ]
     }
   ]
