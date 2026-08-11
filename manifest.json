@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T13:36:53.297Z",
+  "generatedAt": "2026-08-11T14:43:01.406Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -602,6 +602,18 @@
         "Aprimora a criação e a personalização de formulários incorporados.",
         "Adiciona ações pós-envio predefinidas, símbolos e alinhamentos configuráveis.",
         "Melhora o editor visual de páginas, histórico, seleção e atualização de elementos."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.4",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-11T14:43:01.406Z",
+      "title": "Personalização visual avançada de formulários",
+      "notes": [
+        "Organiza a edição de formulários incorporados por categorias mais claras.",
+        "Permite visualizar e personalizar em tempo real os estados normal, hover, foco, selecionado, erro e desabilitado.",
+        "Corrige a navegação exibida indevidamente em formulários com uma única etapa."
       ]
     }
   ]
