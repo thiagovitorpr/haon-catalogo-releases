@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T14:43:01.406Z",
+  "generatedAt": "2026-08-12T01:02:29.041Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -614,6 +614,17 @@
         "Organiza a edição de formulários incorporados por categorias mais claras.",
         "Permite visualizar e personalizar em tempo real os estados normal, hover, foco, selecionado, erro e desabilitado.",
         "Corrige a navegação exibida indevidamente em formulários com uma única etapa."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.5",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-12T01:02:29.041Z",
+      "title": "Correção de isolamento de estilos",
+      "notes": [
+        "Corrige o vazamento de estilos CSS entre páginas do catálogo.",
+        "Melhora o isolamento dos estilos do editor visual para evitar interferências entre páginas."
       ]
     }
   ]
