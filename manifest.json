@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T01:02:29.041Z",
+  "generatedAt": "2026-08-14T09:59:07.586Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -625,6 +625,18 @@
       "notes": [
         "Corrige o vazamento de estilos CSS entre páginas do catálogo.",
         "Melhora o isolamento dos estilos do editor visual para evitar interferências entre páginas."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.6",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-14T09:59:07.586Z",
+      "title": "Conversões de formulários mais confiáveis",
+      "notes": [
+        "Corrige o carregamento do Meta Pixel no navegador.",
+        "Envia Lead pela CAPI após salvar o formulário, com deduplicação e melhor correspondência.",
+        "Registra o diagnóstico da entrega e respeita o consentimento de marketing."
       ]
     }
   ]
