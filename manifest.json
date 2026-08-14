@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T11:35:31.458Z",
+  "generatedAt": "2026-08-14T14:31:22.651Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -661,6 +661,19 @@
         "Dashboard com períodos, horários, comparação e atribuição mais precisa.",
         "Identidade anônima, sessões e jornada de navegação vinculadas às conversões.",
         "Clientes evoluído para Leads com criação automática por formulário e respostas integradas."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.9",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-14T14:31:22.651Z",
+      "title": "Ferramentas, afiliados e conteúdo aprimorados",
+      "notes": [
+        "Separa o encurtador de links do novo módulo de Afiliados.",
+        "Adiciona atribuição de leads, compras, descontos e comissões com regras progressivas e histórico imutável.",
+        "Aprimora Link da Bio, QR Codes e rastreamento de origem e conversões.",
+        "Adiciona documentação e importação JSON de coleções e melhorias na gestão de páginas."
       ]
     }
   ]
