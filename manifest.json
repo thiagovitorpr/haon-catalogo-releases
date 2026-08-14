@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T14:31:22.651Z",
+  "generatedAt": "2026-08-14T15:40:54.769Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -674,6 +674,18 @@
         "Adiciona atribuição de leads, compras, descontos e comissões com regras progressivas e histórico imutável.",
         "Aprimora Link da Bio, QR Codes e rastreamento de origem e conversões.",
         "Adiciona documentação e importação JSON de coleções e melhorias na gestão de páginas."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.10",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-14T15:40:54.769Z",
+      "title": "Coleções e formulários mais completos",
+      "notes": [
+        "Organiza temas de coleções por lista, busca e página interna, com múltiplos modelos e documentação contextual.",
+        "Adiciona pesquisa, tags e ordenação ao gerenciamento de formulários.",
+        "Adiciona ação pós-envio para gerar texto copiável usando respostas do formulário, com documentação para IA."
       ]
     }
   ]
