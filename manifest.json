@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T01:16:29.567Z",
+  "generatedAt": "2026-08-17T01:35:43.635Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -709,6 +709,16 @@
       "notes": [
         "Restaura a opção de colar e validar pacotes JSON diretamente no editor de formulários.",
         "Aplica o conteúdo ao rascunho e preserva nome, slug e webhook por padrão."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.13",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-17T01:35:43.635Z",
+      "title": "Navegação fixa nos formulários popup",
+      "notes": [
+        "Mantém os botões de navegação sempre visíveis e restringe a rolagem ao conteúdo central das etapas."
       ]
     }
   ]
