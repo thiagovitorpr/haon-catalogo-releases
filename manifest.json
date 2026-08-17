@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T19:00:47.242Z",
+  "generatedAt": "2026-08-17T01:16:29.567Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -698,6 +698,17 @@
         "Unifica a visão geral e a análise detalhada de acessos em uma experiência mais fluida.",
         "Reorganiza o cadastro do lead em visão geral, atividades, formulários, jornada digital e atribuição.",
         "Agrupa a navegação por sessões e reduz leituras desnecessárias do Firestore na jornada do lead."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.12",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-17T01:16:29.567Z",
+      "title": "Importação JSON de formulários",
+      "notes": [
+        "Restaura a opção de colar e validar pacotes JSON diretamente no editor de formulários.",
+        "Aplica o conteúdo ao rascunho e preserva nome, slug e webhook por padrão."
       ]
     }
   ]
