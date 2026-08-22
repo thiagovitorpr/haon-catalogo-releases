@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T01:35:43.635Z",
+  "generatedAt": "2026-08-22T12:50:00.735Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -719,6 +719,18 @@
       "title": "Navegação fixa nos formulários popup",
       "notes": [
         "Mantém os botões de navegação sempre visíveis e restringe a rolagem ao conteúdo central das etapas."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.14",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-22T12:50:00.735Z",
+      "title": "Notificações no navegador e editor aprimorado",
+      "notes": [
+        "Notificações opcionais no navegador para novas respostas concluídas de formulários.",
+        "Ativação por usuário, navegador e dispositivo, com envio de teste e remoção automática de assinaturas inválidas.",
+        "Editor de páginas em tela cheia com abas Visual, HTML, CSS, JavaScript e Configurações, além de autocomplete de código e acesso rápido ao preview."
       ]
     }
   ]
