@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T12:50:00.735Z",
+  "generatedAt": "2026-08-22T13:07:49.239Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -731,6 +731,17 @@
         "Notificações opcionais no navegador para novas respostas concluídas de formulários.",
         "Ativação por usuário, navegador e dispositivo, com envio de teste e remoção automática de assinaturas inválidas.",
         "Editor de páginas em tela cheia com abas Visual, HTML, CSS, JavaScript e Configurações, além de autocomplete de código e acesso rápido ao preview."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.15",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-22T13:07:49.239Z",
+      "title": "Hotfix de notificações no navegador",
+      "notes": [
+        "Aguarda a ativação completa do Service Worker antes de registrar o navegador no Firebase Cloud Messaging.",
+        "Evita o erro Subscription failed - no active Service Worker na primeira ativação das notificações."
       ]
     }
   ]
