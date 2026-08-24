@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T15:11:39.947Z",
+  "generatedAt": "2026-08-24T10:46:28.529Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -764,6 +764,17 @@
       "notes": [
         "Permite nomear o dispositivo ao ativar notificações no navegador.",
         "Adiciona renomeação e desconexão individual de dispositivos com validação por usuário."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.18",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-24T10:46:28.529Z",
+      "title": "Links e medidas no editor de páginas",
+      "notes": [
+        "Botões do editor agora aceitam âncoras, rotas internas e URLs externas sem conflito com gatilhos de formulário.",
+        "Campos de medidas oferecem seletor de unidade e reconhecem unidades digitadas, preservando expressões CSS avançadas."
       ]
     }
   ]
