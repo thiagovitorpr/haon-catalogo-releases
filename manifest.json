@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T10:46:28.529Z",
+  "generatedAt": "2026-08-24T15:15:42.678Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -775,6 +775,19 @@
       "notes": [
         "Botões do editor agora aceitam âncoras, rotas internas e URLs externas sem conflito com gatilhos de formulário.",
         "Campos de medidas oferecem seletor de unidade e reconhecem unidades digitadas, preservando expressões CSS avançadas."
+      ]
+    },
+    {
+      "version": "1.6.2-beta.19",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-24T15:15:42.678Z",
+      "title": "Editor visual com componentes administráveis",
+      "notes": [
+        "Melhora a edição visual de páginas com componentes compatíveis com cada contexto.",
+        "Adiciona gestão de FAQ, galerias e sliders preservando o HTML e o JavaScript importados.",
+        "Corrige o reconhecimento de FAQ para não classificar elementos comuns incorretamente.",
+        "Atualiza a documentação para criação de páginas compatíveis por desenvolvedores e IAs."
       ]
     }
   ]
