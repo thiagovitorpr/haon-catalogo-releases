@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T14:37:21.634Z",
+  "generatedAt": "2026-08-27T10:55:18.643Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -802,6 +802,18 @@
         "Adiciona Analytics V2, jornadas de Leads, atribuição, links rastreáveis e gestão de afiliados.",
         "Aprimora coleções, importação JSON, temas e ferramentas de conteúdo.",
         "Estabiliza o favicon público em uma URL permanente do próprio site."
+      ]
+    },
+    {
+      "version": "1.7.0",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-08-27T10:55:18.643Z",
+      "title": "Editor visual unificado e chatbots",
+      "notes": [
+        "Novo construtor visual de chatbots incorporáveis, com fluxos, conversas registradas e conectores interativos.",
+        "Editor visual reutilizável em páginas, temas, componentes e coleções, com contexto de dados dinâmicos.",
+        "Componentes de FAQ, galeria e slider mais editáveis, além de melhorias em formulários e documentação para IA."
       ]
     }
   ]
