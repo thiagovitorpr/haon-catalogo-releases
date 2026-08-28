@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T10:47:29.963Z",
+  "generatedAt": "2026-08-28T13:10:03.985Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -826,6 +826,18 @@
         "Adiciona visão detalhada de atividades agrupadas por sessão.",
         "Permite expandir visualizações, cliques, rolagens e comportamentos.",
         "Vincula novas conversões de formulário ao cadastro do lead."
+      ]
+    },
+    {
+      "version": "1.8.0-beta.2",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-28T13:10:03.985Z",
+      "title": "Progresso parcial em formulários de etapa única",
+      "notes": [
+        "Registra respostas parciais ao sair dos campos em formulários de uma única etapa.",
+        "Mostra abandono por campo e o último ponto preenchido no painel de respostas.",
+        "Reutiliza a mesma sessão no envio final sem disparar conversões parciais."
       ]
     }
   ]
