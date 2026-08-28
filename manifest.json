@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T10:55:18.643Z",
+  "generatedAt": "2026-08-28T10:47:29.963Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -814,6 +814,18 @@
         "Novo construtor visual de chatbots incorporáveis, com fluxos, conversas registradas e conectores interativos.",
         "Editor visual reutilizável em páginas, temas, componentes e coleções, com contexto de dados dinâmicos.",
         "Componentes de FAQ, galeria e slider mais editáveis, além de melhorias em formulários e documentação para IA."
+      ]
+    },
+    {
+      "version": "1.8.0-beta.1",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-28T10:47:29.963Z",
+      "title": "Analytics detalhado por sessão",
+      "notes": [
+        "Adiciona visão detalhada de atividades agrupadas por sessão.",
+        "Permite expandir visualizações, cliques, rolagens e comportamentos.",
+        "Vincula novas conversões de formulário ao cadastro do lead."
       ]
     }
   ]
