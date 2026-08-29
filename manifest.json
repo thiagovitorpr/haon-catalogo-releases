@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:30:43.936Z",
+  "generatedAt": "2026-08-29T14:48:51.466Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -861,6 +861,18 @@
       "notes": [
         "Ajusta o comportamento das bibliotecas de blog",
         "Melhora o funcionamento dos recursos relacionados ao blog"
+      ]
+    },
+    {
+      "version": "1.8.0-beta.6",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-29T14:48:51.466Z",
+      "title": "Melhorias em dashboards e acompanhamento de interações",
+      "notes": [
+        "Melhora os dashboards para acompanhamento do comportamento dos formulários",
+        "Aprimora a visualização das interações e ações realizadas pelos usuários nas páginas",
+        "Facilita a análise de comportamento e desempenho das experiências publicadas"
       ]
     }
   ]
