@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T14:48:51.466Z",
+  "generatedAt": "2026-08-30T15:48:30.376Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -873,6 +873,22 @@
         "Melhora os dashboards para acompanhamento do comportamento dos formulários",
         "Aprimora a visualização das interações e ações realizadas pelos usuários nas páginas",
         "Facilita a análise de comportamento e desempenho das experiências publicadas"
+      ]
+    },
+    {
+      "version": "1.8.0-beta.7",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-08-30T15:48:30.376Z",
+      "title": "Novas ações de conclusão dos formulários",
+      "notes": [
+        "WhatsApp agora permite configurar DDI, número e mensagem, incluindo respostas do formulário na mensagem",
+        "Adiciona Testar ação para abrir a conversa correta sem registrar conversão",
+        "Downloads agora permitem enviar um arquivo ou selecioná-lo na Biblioteca de Mídias",
+        "Links, redirecionamentos, calendário e texto para copiar passam a ter configurações próprias",
+        "Ações incompletas são bloqueadas antes da publicação",
+        "Atualiza a documentação e o formato JSON das ações de formulário",
+        "Mantém compatibilidade com ações antigas; WhatsApps antigos sem número precisam ser configurados antes de nova publicação"
       ]
     }
   ]
