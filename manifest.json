@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T15:48:30.376Z",
+  "generatedAt": "2026-09-01T12:56:07.406Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -889,6 +889,17 @@
         "Ações incompletas são bloqueadas antes da publicação",
         "Atualiza a documentação e o formato JSON das ações de formulário",
         "Mantém compatibilidade com ações antigas; WhatsApps antigos sem número precisam ser configurados antes de nova publicação"
+      ]
+    },
+    {
+      "version": "1.8.0-beta.8",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-01T12:56:07.406Z",
+      "title": "Melhorias em dashboards e gerenciamento de popups",
+      "notes": [
+        "Melhorias no acompanhamento de informações e indicadores nos dashboards.",
+        "Melhorias no gerenciamento e controle de popups."
       ]
     }
   ]
