@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T12:05:40.032Z",
+  "generatedAt": "2026-09-04T20:04:11.542Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -912,6 +912,26 @@
         "Aprimora a experiência e os recursos de edição de páginas",
         "Adiciona versionamento de páginas mantendo a mesma URL pública",
         "Corrige o rastreamento de QR Codes, Link da Bio e outras interações relacionadas"
+      ]
+    },
+    {
+      "version": "1.8.0-beta.10",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-04T20:04:11.542Z",
+      "title": "Novo editor de páginas e melhorias em formulários, chatbot e analytics",
+      "notes": [
+        "Reformula o editor de páginas com interface inspirada no Elementor e organização em Conteúdo/Layout, Estilo e Avançado",
+        "Adiciona edição avançada de contêineres com Flexbox, Grid, alinhamento, dimensões, espaçamentos, fundos, bordas, sombras e configurações responsivas",
+        "Melhora o preview e a navegação do editor, incluindo tela cheia, abertura em nova aba, troca de variações sem recarregar e correções na persistência de IDs e âncoras",
+        "Corrige o tratamento de spans estilizados e evita duplicação de setas e ícones durante a edição de textos de botões",
+        "Integra o haon-chatbot ao canvas do editor, permitindo seleção, ativação, modo, posição, aparência, espaçamentos e personalização por página",
+        "Reformula o editor e preview de formulários, corrige navegação em etapa única, dimensões de botões e melhora a experiência dos formulários em popup",
+        "Adiciona personalizações de formulário por seção e estado, além de cabeçalho público, texto antes do envio e sobrescritas exclusivas por página",
+        "Adiciona atributos portáveis de formulário e equivalentes data-haon-form para preservar personalizações em incorporações e triggers",
+        "Atualiza o gráfico Evolução do desempenho do Analytics para visualização em linhas, múltiplas séries, pontos, guia vertical e tooltip por período",
+        "Atualiza o contrato de geração para IA para a versão 1.2 e revisa a documentação de páginas, formulários, chatbots, temas e regras de edição visual",
+        "Mantém formulários e chatbots como serviços dinâmicos, preserva atributos data-haon-* e reforça regras para HTML editável, semântico e responsivo"
       ]
     }
   ]
