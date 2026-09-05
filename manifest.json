@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T12:31:31.586Z",
+  "generatedAt": "2026-09-05T13:58:34.569Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -944,6 +944,21 @@
         "Corrige problemas na edição e configuração de formulários",
         "Aprimora os dashboards exibidos na tela inicial do painel",
         "Melhora a estabilidade e a apresentação das informações de acompanhamento"
+      ]
+    },
+    {
+      "version": "1.8.0",
+      "channel": "stable",
+      "enabled": true,
+      "publishedAt": "2026-09-05T13:58:34.569Z",
+      "title": "Editor visual, conteúdo estruturado e analytics",
+      "notes": [
+        "Reformula o editor de páginas com contêineres responsivos, variações sem recarregar, edição em tela cheia e preservação de textos estilizados.",
+        "Amplia a edição e o preview de formulários e chatbots, inclusive em popups, com personalizações por página.",
+        "Adiciona popups de tema, consentimento de cookies e gerenciamento centralizado.",
+        "Aprimora dashboards e analytics com histórico detalhado, jornadas e gráficos interativos.",
+        "Reorganiza Blog, Produtos e coleções sob Conteúdo, com publicação independente, rotas diretas ou agrupadas, campos personalizados e SEO preservado.",
+        "Atualiza a documentação do construtor e inclui as permissões necessárias nas regras do Firestore."
       ]
     }
   ]
