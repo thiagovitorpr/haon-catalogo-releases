@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T19:06:53.643Z",
+  "generatedAt": "2026-09-06T21:44:18.919Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -991,6 +991,18 @@
       "notes": [
         "Aprimora a edição de formulários em popup acionados por botões",
         "Corrige o fluxo de configuração de formulários vinculados a botões"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.4",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-06T21:44:18.919Z",
+      "title": "Melhorias na edição de páginas",
+      "notes": [
+        "Melhora a consistência da experiência de edição de páginas",
+        "Exibe as páginas padrão corretamente nas miniaturas",
+        "Faz com que páginas padrão abram diretamente na página correta para edição"
       ]
     }
   ]
