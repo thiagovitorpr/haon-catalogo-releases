@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T13:58:34.569Z",
+  "generatedAt": "2026-09-06T13:00:19.808Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -959,6 +959,17 @@
         "Aprimora dashboards e analytics com histórico detalhado, jornadas e gráficos interativos.",
         "Reorganiza Blog, Produtos e coleções sob Conteúdo, com publicação independente, rotas diretas ou agrupadas, campos personalizados e SEO preservado.",
         "Atualiza a documentação do construtor e inclui as permissões necessárias nas regras do Firestore."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.1",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-06T13:00:19.808Z",
+      "title": "Melhorias nos filtros de data dos dashboards",
+      "notes": [
+        "Aprimora os seletores de data utilizados nos dashboards",
+        "Melhora a experiência de seleção e filtragem de períodos nos dados de desempenho"
       ]
     }
   ]
