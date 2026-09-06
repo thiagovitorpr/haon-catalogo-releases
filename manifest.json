@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T18:27:45.035Z",
+  "generatedAt": "2026-09-06T19:06:53.643Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -980,6 +980,17 @@
       "title": "Ajustes na documentação",
       "notes": [
         "Atualização da documentação"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.3",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-06T19:06:53.643Z",
+      "title": "Ajustes em formulários popup",
+      "notes": [
+        "Aprimora a edição de formulários em popup acionados por botões",
+        "Corrige o fluxo de configuração de formulários vinculados a botões"
       ]
     }
   ]
