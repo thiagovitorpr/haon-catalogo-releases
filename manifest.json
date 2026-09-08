@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:24:10.833Z",
+  "generatedAt": "2026-09-08T11:46:31.659Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1022,6 +1022,17 @@
         "Adiciona a área Documentação → Baixar para IA com downloads individuais e documentação unificada",
         "Atualiza a documentação e o autocompletar para tipografia, gradientes, responsividade, espaçador, chatbot e CTA móvel",
         "Valida TypeScript, ESLint, build de produção e runtime do preview"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.6",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-08T11:46:31.659Z",
+      "title": "Ajustes em botões flutuantes e no editor",
+      "notes": [
+        "Aprimora o funcionamento dos botões flutuantes nas páginas",
+        "Faz com que o editor reconheça corretamente o elemento Espaçador"
       ]
     }
   ]
