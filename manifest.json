@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:46:31.659Z",
+  "generatedAt": "2026-09-08T19:59:37.112Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1033,6 +1033,17 @@
       "notes": [
         "Aprimora o funcionamento dos botões flutuantes nas páginas",
         "Faz com que o editor reconheça corretamente o elemento Espaçador"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.7",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-08T19:59:37.112Z",
+      "title": "Ajustes na edição de carrosséis",
+      "notes": [
+        "Aprimora o funcionamento do elemento Carrossel no editor de páginas",
+        "Melhora a experiência de edição e configuração de carrosséis"
       ]
     }
   ]
