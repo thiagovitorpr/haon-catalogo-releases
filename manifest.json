@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T21:44:18.919Z",
+  "generatedAt": "2026-09-08T11:24:10.833Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1003,6 +1003,25 @@
         "Melhora a consistência da experiência de edição de páginas",
         "Exibe as páginas padrão corretamente nas miniaturas",
         "Faz com que páginas padrão abram diretamente na página correta para edição"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.5",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-08T11:24:10.833Z",
+      "title": "Melhorias no editor, formulários, CTA móvel e chatbot",
+      "notes": [
+        "Amplia os controles de tipografia, gradientes, responsividade e posicionamento no editor de páginas",
+        "Adiciona o elemento Espaçador e melhora a edição de medidas, margens e campos numéricos",
+        "Aprimora o preview e a personalização de formulários incorporados e em popup",
+        "Adiciona textos locais por página e novos controles visuais para campos, botões e espaçamentos dos formulários",
+        "Adiciona suporte a CTA flutuante no celular a partir de links e botões existentes",
+        "Inclui posicionamento, dimensões e rastreamento específicos para o CTA móvel",
+        "Adiciona posicionamento configurável do chatbot por página e tratamento automático de conflito com o CTA móvel",
+        "Adiciona a área Documentação → Baixar para IA com downloads individuais e documentação unificada",
+        "Atualiza a documentação e o autocompletar para tipografia, gradientes, responsividade, espaçador, chatbot e CTA móvel",
+        "Valida TypeScript, ESLint, build de produção e runtime do preview"
       ]
     }
   ]
