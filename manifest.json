@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T01:20:22.234Z",
+  "generatedAt": "2026-09-29T11:07:12.564Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1081,6 +1081,16 @@
         "Adiciona novas integrações de inteligência artificial à plataforma",
         "Amplia os recursos de coleções com suporte a preços",
         "Adiciona funcionalidades de carrinho integradas às coleções"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.11",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-09-29T11:07:12.564Z",
+      "title": "Melhorias nos insights de páginas de coleções",
+      "notes": [
+        "Melhorias no acompanhamento de insights de páginas de coleções."
       ]
     }
   ]
