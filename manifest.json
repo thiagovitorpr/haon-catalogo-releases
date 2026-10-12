@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T11:07:12.564Z",
+  "generatedAt": "2026-10-12T10:20:41.485Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1091,6 +1091,17 @@
       "title": "Melhorias nos insights de páginas de coleções",
       "notes": [
         "Melhorias no acompanhamento de insights de páginas de coleções."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.12",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-12T10:20:41.485Z",
+      "title": "Seletor visual de ícones do Link da Bio",
+      "notes": [
+        "Adiciona um modal visual e responsivo para escolher os ícones dos botões do Link da Bio",
+        "Corrige o ícone do WhatsApp e garante dimensões consistentes no seletor, na prévia e na página pública"
       ]
     }
   ]
