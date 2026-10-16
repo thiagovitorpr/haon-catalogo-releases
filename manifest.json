@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T10:20:41.485Z",
+  "generatedAt": "2026-10-16T13:02:43.012Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1102,6 +1102,19 @@
       "notes": [
         "Adiciona um modal visual e responsivo para escolher os ícones dos botões do Link da Bio",
         "Corrige o ícone do WhatsApp e garante dimensões consistentes no seletor, na prévia e na página pública"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.13",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-16T13:02:43.012Z",
+      "title": "Conversões de CRM e atribuição de analytics",
+      "notes": [
+        "Adiciona os status Qualificado e Perdido com envio dos eventos QualifiedLead e DisqualifiedLead para a Meta pela Conversions API",
+        "Envia compras registradas no CRM como Purchase com valor, identificadores protegidos e correspondência por telefone ou e-mail",
+        "Registra o resultado dos envios no histórico do lead e evita eventos duplicados",
+        "Aprimora a atribuição de acessos internos e os insights de páginas de coleções"
       ]
     }
   ]
