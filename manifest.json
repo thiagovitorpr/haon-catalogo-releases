@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T15:46:42.092Z",
+  "generatedAt": "2026-10-16T20:16:38.953Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1148,6 +1148,17 @@
       "notes": [
         "Envia Lead na criação manual e trata os estágios como eventos offline correspondidos por telefone ou e-mail.",
         "Registra no histórico o código de teste confirmado pela Meta."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.17",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-16T20:16:38.953Z",
+      "title": "Eventos personalizados para etapas manuais do CRM",
+      "notes": [
+        "Envia leads qualificados manualmente como o evento personalizado HaonQualifiedLead para permitir mensuração sem lead_id da Meta.",
+        "Envia leads perdidos como HaonDisqualifiedLead e mantém Lead e Purchase como eventos padrão."
       ]
     }
   ]
