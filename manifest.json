@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T13:55:37.487Z",
+  "generatedAt": "2026-10-16T14:42:51.090Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1127,6 +1127,16 @@
         "Adiciona o status Em negociação entre Qualificado e Perdido no CRM",
         "Permite filtrar e identificar visualmente os leads que ainda estão em negociação",
         "Mantém o status como etapa interna, sem disparar um evento adicional para a Meta"
+      ]
+    },
+    {
+      "version": "1.9.0-beta.15",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-16T14:42:51.090Z",
+      "title": "Confirmação de eventos Meta",
+      "notes": [
+        "Evita falso positivo ao exigir confirmação de recebimento da Meta em eventos CRM."
       ]
     }
   ]
