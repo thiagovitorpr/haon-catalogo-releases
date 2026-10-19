@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T20:16:38.953Z",
+  "generatedAt": "2026-10-19T13:16:37.662Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1159,6 +1159,18 @@
       "notes": [
         "Envia leads qualificados manualmente como o evento personalizado HaonQualifiedLead para permitir mensuração sem lead_id da Meta.",
         "Envia leads perdidos como HaonDisqualifiedLead e mantém Lead e Purchase como eventos padrão."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.18",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-19T13:16:37.662Z",
+      "title": "CRM Meta validado e gestão de leads",
+      "notes": [
+        "Envia Lead, HaonQualifiedLead, HaonDisqualifiedLead e Purchase pela Conversions API com origem CRM e diagnóstico técnico.",
+        "Documenta a autorização obrigatória dos eventos personalizados no conjunto de dados de cada cliente.",
+        "Adiciona máscara de telefone e lixeira de leads com restauração e retenção de 30 dias."
       ]
     }
   ]
