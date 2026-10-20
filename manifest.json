@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:16:37.662Z",
+  "generatedAt": "2026-10-20T17:30:49.066Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1171,6 +1171,18 @@
         "Envia Lead, HaonQualifiedLead, HaonDisqualifiedLead e Purchase pela Conversions API com origem CRM e diagnóstico técnico.",
         "Documenta a autorização obrigatória dos eventos personalizados no conjunto de dados de cada cliente.",
         "Adiciona máscara de telefone e lixeira de leads com restauração e retenção de 30 dias."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.19",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-20T17:30:49.066Z",
+      "title": "Consentimento de leads e acesso total",
+      "notes": [
+        "Exige uma decisão explícita sobre autorização ou base legal antes de cadastrar um lead manual.",
+        "Adiciona a opção Acesso total e torna configuráveis todos os módulos operacionais, incluindo Temas e Ferramentas.",
+        "Garante que Link da Bio, formulários, IA, chatbots, links, afiliados e QR Codes sejam incluídos pela permissão Ferramentas."
       ]
     }
   ]
