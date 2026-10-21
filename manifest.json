@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T17:30:49.066Z",
+  "generatedAt": "2026-10-21T18:20:02.900Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1183,6 +1183,17 @@
         "Exige uma decisão explícita sobre autorização ou base legal antes de cadastrar um lead manual.",
         "Adiciona a opção Acesso total e torna configuráveis todos os módulos operacionais, incluindo Temas e Ferramentas.",
         "Garante que Link da Bio, formulários, IA, chatbots, links, afiliados e QR Codes sejam incluídos pela permissão Ferramentas."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.20",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-21T18:20:02.900Z",
+      "title": "Editor visual e pacotes de página",
+      "notes": [
+        "Mantém conteúdos animados visíveis durante a edição visual sem remover os efeitos do site público.",
+        "Exporta e importa as mídias referenciadas no HTML, CSS, JavaScript e SEO das páginas."
       ]
     }
   ]
