@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T09:41:40.933Z",
+  "generatedAt": "2026-10-22T10:28:35.839Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1206,6 +1206,18 @@
         "Valida repositório privado, branch padrão e workflow antes de habilitar atualizações.",
         "Corrige a detecção da origem hosted.app e concede acesso do backend ao secret do atualizador.",
         "Adiciona diagnóstico bloqueante e checklist completo de implantação."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.22",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-22T10:28:35.839Z",
+      "title": "Importação de mídias externas em páginas",
+      "notes": [
+        "Detecta imagens externas usadas no HTML, CSS, srcset, poster e SEO das páginas.",
+        "Importa as imagens selecionadas para a Biblioteca de Mídias e substitui as URLs somente no rascunho.",
+        "Protege o download com autenticação, limite de tamanho, validação de formato e bloqueio de endereços internos e SVG ativo."
       ]
     }
   ]
