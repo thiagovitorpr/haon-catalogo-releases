@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T18:20:02.900Z",
+  "generatedAt": "2026-10-22T09:41:40.933Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1194,6 +1194,18 @@
       "notes": [
         "Mantém conteúdos animados visíveis durante a edição visual sem remover os efeitos do site público.",
         "Exporta e importa as mídias referenciadas no HTML, CSS, JavaScript e SEO das páginas."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.21",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-10-22T09:41:40.933Z",
+      "title": "Provisionamento mais seguro de clientes",
+      "notes": [
+        "Valida repositório privado, branch padrão e workflow antes de habilitar atualizações.",
+        "Corrige a detecção da origem hosted.app e concede acesso do backend ao secret do atualizador.",
+        "Adiciona diagnóstico bloqueante e checklist completo de implantação."
       ]
     }
   ]
