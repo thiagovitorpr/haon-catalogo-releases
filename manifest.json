@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T13:59:03.005Z",
+  "generatedAt": "2026-11-03T11:04:21.614Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1253,6 +1253,18 @@
         "Adiciona cache público configurável com modo de desenvolvimento, CDN e invalidação automática nas publicações.",
         "Aplica cache imutável a novos uploads e oferece migração para mídias existentes.",
         "Torna o provisionamento de Firebase, Authentication, Storage e GitHub App mais resiliente e retomável."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.26",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-03T11:04:21.614Z",
+      "title": "Origens e organização de leads",
+      "notes": [
+        "Adiciona origens comerciais para leads manuais, antigos e sem campanha.",
+        "Reutiliza valores de origem, mídia e campanha UTM com busca e criação de novas opções.",
+        "Inclui filtros por origem e ordenação por atualização, cadastro e nome na lista de leads."
       ]
     }
   ]
