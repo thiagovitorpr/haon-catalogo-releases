@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T11:07:39.709Z",
+  "generatedAt": "2026-11-06T13:44:53.934Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1277,6 +1277,19 @@
         "Adiciona agenda de follow-ups com atividades atrasadas, do dia, próximas e leads sem próximo contato.",
         "Separa Perdido de Desqualificado e envia somente leads sem aderência como HaonDisqualifiedLead para a Meta.",
         "Corrige a leitura paginada do Dashboard e melhora o diagnóstico de credenciais administrativas locais."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.28",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-06T13:44:53.934Z",
+      "title": "Ícones e banners responsivos no editor",
+      "notes": [
+        "Adiciona biblioteca de ícones populares e utilitários aos botões do editor de páginas, com posição antes ou depois do texto.",
+        "Permite definir uma imagem específica para celular em cada slide do carrossel, mantendo a imagem desktop como fallback.",
+        "Atualiza o contrato e a documentação para agentes com os padrões compatíveis de SVG e picture responsivo.",
+        "Inclui a correção de normalização do nome do serviço gerenciado no Cloud Run."
       ]
     }
   ]
