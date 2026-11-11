@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T13:44:53.934Z",
+  "generatedAt": "2026-11-11T14:21:01.585Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1290,6 +1290,20 @@
         "Permite definir uma imagem específica para celular em cada slide do carrossel, mantendo a imagem desktop como fallback.",
         "Atualiza o contrato e a documentação para agentes com os padrões compatíveis de SVG e picture responsivo.",
         "Inclui a correção de normalização do nome do serviço gerenciado no Cloud Run."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.29",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-11T14:21:01.585Z",
+      "title": "Editor visual e analytics mais confiáveis",
+      "notes": [
+        "Adiciona seletor visual e upload SVG para ícones de botões.",
+        "Melhora banners responsivos do carrossel, inclusive slides somente com imagem, e corrige pictures aninhados.",
+        "Preserva a inicialização de interações personalizadas no preview e no tema publicado.",
+        "Adiciona atualização manual do dashboard de acessos e renova períodos relativos.",
+        "Permite editar a data de entrada dos leads."
       ]
     }
   ]
