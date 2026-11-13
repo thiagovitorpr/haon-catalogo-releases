@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T12:37:56.133Z",
+  "generatedAt": "2026-11-13T10:10:32.417Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1316,6 +1316,18 @@
         "Incorpora mídias externas em pacotes de página por uma rota autenticada e segura quando o navegador encontra bloqueios de CORS.",
         "Exibe progresso detalhado ao gerar e baixar pacotes de página.",
         "Adiciona um modal com etapas, arquivos e progresso real durante a importação de páginas."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.31",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-13T10:10:32.417Z",
+      "title": "Exportação de leads e analytics por página",
+      "notes": [
+        "Permite exportar os leads filtrados do CRM em CSV compatível com Excel.",
+        "Corrige a identificação e os filtros de páginas administráveis no Analytics, inclusive quando ocupam a página inicial.",
+        "Simplifica o workspace do editor de formulários removendo o preview duplicado."
       ]
     }
   ]
