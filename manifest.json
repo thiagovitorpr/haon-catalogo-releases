@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T19:13:57.938Z",
+  "generatedAt": "2026-11-16T20:02:30.675Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1352,6 +1352,18 @@
         "Permite editar a origem do lead diretamente pela listagem, com suporte a indicação, campanha e criativo.",
         "Adiciona abertura do WhatsApp pelo telefone e ações rápidas para qualificar ou desqualificar leads sem exigir negociação.",
         "Define chegadas recentes como ordenação padrão e melhora o visual dos seletores e dos resumos comerciais."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.34",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-16T20:02:30.675Z",
+      "title": "Correção no cadastro de leads",
+      "notes": [
+        "Corrige a criação de leads com origens que não usam indicação, evitando campos indefinidos rejeitados pelo Firestore.",
+        "Remove corretamente dados de indicação, campanha e criativo ao trocar a origem de um lead.",
+        "Evita a exibição duplicada de erros no formulário e adiciona teste de regressão para a gravação no Firestore."
       ]
     }
   ]
