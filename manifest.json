@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T10:10:32.417Z",
+  "generatedAt": "2026-11-16T13:45:30.347Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1328,6 +1328,18 @@
         "Permite exportar os leads filtrados do CRM em CSV compatível com Excel.",
         "Corrige a identificação e os filtros de páginas administráveis no Analytics, inclusive quando ocupam a página inicial.",
         "Simplifica o workspace do editor de formulários removendo o preview duplicado."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.32",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-16T13:45:30.347Z",
+      "title": "CRM de Leads e campanhas",
+      "notes": [
+        "Adiciona múltiplas negociações por lead com atribuição independente.",
+        "Organiza campanhas, criativos, métricas e históricos com importação CSV e Excel.",
+        "Melhora funil, atividades, agenda e validação de WhatsApp preservando a deduplicação dos eventos da Meta."
       ]
     }
   ]
