@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T20:02:30.675Z",
+  "generatedAt": "2026-11-17T13:00:45.601Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1364,6 +1364,18 @@
         "Corrige a criação de leads com origens que não usam indicação, evitando campos indefinidos rejeitados pelo Firestore.",
         "Remove corretamente dados de indicação, campanha e criativo ao trocar a origem de um lead.",
         "Evita a exibição duplicada de erros no formulário e adiciona teste de regressão para a gravação no Firestore."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.35",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-17T13:00:45.601Z",
+      "title": "Edição contextual e formulários mobile",
+      "notes": [
+        "Adiciona uma barra administrativa segura no site público com atalhos contextuais para páginas, artigos, coleções, header, footer e formulários.",
+        "Abre diretamente o conteúdo correspondente no painel, respeitando as permissões de cada usuário e a separação entre os domínios público e administrativo.",
+        "Corrige formulários popup no celular para manter o campo focado visível acima do teclado sem comprimir o conteúdo do modal."
       ]
     }
   ]
