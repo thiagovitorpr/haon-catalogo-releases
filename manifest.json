@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T18:49:32.913Z",
+  "generatedAt": "2026-11-23T12:15:45.869Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1400,6 +1400,18 @@
         "Adiciona Insights filtrado e atalhos contextuais para editar conteúdo, templates e componentes compartilhados.",
         "Detecta header e footer incorporados, abre os atalhos em nova guia e usa a identidade visual do painel do cliente.",
         "Impede erro 500 em artigos com datas de publicação inválidas, usando datas alternativas seguras."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.38",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-23T12:15:45.869Z",
+      "title": "Histórico de conteúdo e análises comerciais",
+      "notes": [
+        "Adiciona histórico com restauração das últimas versões de artigos e itens de coleções.",
+        "Amplia os filtros de período e a análise do funil na gestão de clientes.",
+        "Melhora os atalhos de administração pública e as ações dos formulários de conteúdo."
       ]
     }
   ]
