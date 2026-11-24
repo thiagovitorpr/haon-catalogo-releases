@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:15:45.869Z",
+  "generatedAt": "2026-11-24T14:33:26.155Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1412,6 +1412,19 @@
         "Adiciona histórico com restauração das últimas versões de artigos e itens de coleções.",
         "Amplia os filtros de período e a análise do funil na gestão de clientes.",
         "Melhora os atalhos de administração pública e as ações dos formulários de conteúdo."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.39",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-24T14:33:26.155Z",
+      "title": "Canais e campanhas renovados",
+      "notes": [
+        "Novo módulo de Canais com Meta Ads e suporte a canais personalizados.",
+        "Dashboard e fluxo completo de campanhas reformulados com uma interface mais clara e responsiva.",
+        "Histórico de métricas agora permite correções com recálculo automático dos totais.",
+        "Criativo de anúncio e vínculo de indicação passam a ser opcionais no cadastro de leads."
       ]
     }
   ]
