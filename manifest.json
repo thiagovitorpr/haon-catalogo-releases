@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T14:33:26.155Z",
+  "generatedAt": "2026-11-25T13:07:35.917Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1425,6 +1425,19 @@
         "Dashboard e fluxo completo de campanhas reformulados com uma interface mais clara e responsiva.",
         "Histórico de métricas agora permite correções com recálculo automático dos totais.",
         "Criativo de anúncio e vínculo de indicação passam a ser opcionais no cadastro de leads."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.40",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-25T13:07:35.917Z",
+      "title": "Leads, negociações e Design Lab",
+      "notes": [
+        "Novo menu Adicionar, atalhos para negociações e registro de perdas pelo resumo comercial.",
+        "Data de abertura e catálogo de serviços pesquisável nas negociações.",
+        "Histórico de campanhas com exclusão de registros e recálculo de totais.",
+        "Design Lab com novo dashboard, gráficos, agenda e controles interativos para administradores master."
       ]
     }
   ]
