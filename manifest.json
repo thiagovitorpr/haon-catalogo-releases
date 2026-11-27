@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T21:15:38.956Z",
+  "generatedAt": "2026-11-27T13:58:38.051Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1451,6 +1451,18 @@
         "O Dashboard ganha novos gráficos, seções reorganizadas e respostas visuais às interações.",
         "Valores em reais são formatados ao digitar e a qualificação é disparada ao avançar uma negociação.",
         "Criativos podem ser editados ou excluídos, com nova origem para os leads vinculados."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.42",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-27T13:58:38.051Z",
+      "title": "Desempenho de canais e melhorias no painel",
+      "notes": [
+        "Painéis por canal e campanha com filtros, evolução financeira, jornada comercial e gráficos personalizáveis.",
+        "Sincronização de compras antigas e cálculo de receita com os valores registrados.",
+        "Melhorias em catálogos administrativos, chatbots, eventos de marketing e notificações."
       ]
     }
   ]
