@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T14:52:32.763Z",
+  "generatedAt": "2026-11-27T21:22:28.083Z",
   "releases": [
     {
       "version": "1.0.0",
@@ -1484,6 +1484,18 @@
       "title": "Detalhes na visão geral da campanha",
       "notes": [
         "Cards de leads, negociações, vendas, investimento e demais indicadores abrem os detalhes diretamente na campanha."
+      ]
+    },
+    {
+      "version": "1.9.0-beta.45",
+      "channel": "beta",
+      "enabled": true,
+      "publishedAt": "2026-11-27T21:22:28.083Z",
+      "title": "Dashboard integrado ao CRM",
+      "notes": [
+        "Dashboard inclui leads cadastrados e compras do CRM, com filtro por tipo de conversão.",
+        "Compras antigas vinculadas entram como negócios ganhos e ficam fora do valor em negociação.",
+        "A ação Marcar como perdido ganhou um botão visível no resumo comercial."
       ]
     }
   ]
